@@ -1,0 +1,7 @@
+---
+id: collections
+title: "Collections"
+sidebar_position: 1
+---
+
+# Collections
